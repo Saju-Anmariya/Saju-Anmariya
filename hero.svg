@@ -74,7 +74,7 @@
   <circle cx="140" cy="285" r="3.5" fill="#a78bfa"/>
   <text x="150" y="289" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94a3b8">B.Sc. Computer Science, IU</text>
   <circle cx="376" cy="285" r="3.5" fill="#f472b6"/>
-  <text x="386" y="289" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94a3b8">2 projects on GitHub</text>
+  <text x="386" y="289" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94a3b8">3 projects on GitHub</text>
 
   <!-- initials badge -->
   <circle cx="748" cy="160" r="92" fill="none" stroke="url(#h-aurora)" stroke-width="2" stroke-dasharray="4 10">
